@@ -1,1 +1,4 @@
-# odoo_gpt_addons
+# 在odoo平台透過OpenAI之API模型回應輸出
+<p>使用「tetx-davinci-003」模型而非gpt-3.5-turbo</p>
+<p>請參照controller.py，輸入完成您的API Key，將該文件檔放置另外的addons路徑</p>
+<p>只透過網址可查看模型的回應</p>
