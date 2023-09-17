@@ -29,7 +29,7 @@ class GPTtest(http.Controller):
         response = requests.post(
             'https://api.openai.com/v1/completions',
             headers={
-                'Authorization': 'Bearer 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', 
+                'Authorization': 'Bearer Your API Key', 
                 'Content-Type': 'application/json'
             },
             data=json.dumps({
